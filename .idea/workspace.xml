@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c27d790e-01e9-4e1d-bd37-17d656797848" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../imdb/text_only.py" beforeDir="false" afterPath="$PROJECT_DIR$/../imdb/text_only.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../watcha" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../youtube/LDA_youtube.py" beforeDir="false" afterPath="$PROJECT_DIR$/../youtube/LDA_youtube.py" afterDir="false" />
@@ -63,7 +62,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="gitignore" value="60" />
+          <entry key="gitignore" value="69" />
           <entry key="md" value="135" />
           <entry key="py" value="4934" />
         </counts>
@@ -71,7 +70,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="135" />
-          <entry key="PLAIN_TEXT" value="61" />
+          <entry key="PLAIN_TEXT" value="70" />
           <entry key="Python" value="4934" />
         </counts>
       </usages-collector>
@@ -79,11 +78,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/youtube_crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
+            <state relative-caret-position="245">
+              <caret line="123" column="34" selection-start-line="123" selection-start-column="34" selection-end-line="123" selection-end-column="34" />
               <folding>
                 <element signature="e#191#202#0" expanded="true" />
                 <marker date="1543935813393" expanded="true" signature="369:375" ph="..." />
@@ -105,7 +104,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apikey.txtt">
+        <entry file="file://$PROJECT_DIR$/apikey.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="42" selection-start-column="42" selection-end-column="42" />
@@ -113,11 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -169,11 +168,11 @@
         <option value="$PROJECT_DIR$/tweet_cralwer.py" />
         <option value="$PROJECT_DIR$/../youtube/vader.py" />
         <option value="$PROJECT_DIR$/count_comment.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/apikey.txtt" />
         <option value="$PROJECT_DIR$/tweet_crawler.py" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/youtube_crawler.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -400,13 +399,6 @@
     <entry file="file://$PROJECT_DIR$/venv/apikey.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/apikey.txtt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="42" selection-start-column="42" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../youtube/vader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
@@ -414,13 +406,6 @@
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -446,12 +431,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/youtube_crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
+        <state relative-caret-position="245">
+          <caret line="123" column="34" selection-start-line="123" selection-start-column="34" selection-end-line="123" selection-end-column="34" />
           <folding>
             <element signature="e#191#202#0" expanded="true" />
             <marker date="1543935813393" expanded="true" signature="369:375" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apikey.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>

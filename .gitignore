@@ -2,4 +2,6 @@
 
 *.txt
 
+*.idea
+
 !sample_excel_file.xlsx
