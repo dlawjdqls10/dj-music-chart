@@ -20,7 +20,7 @@ enddate=dt.date(year=2018, month=9, day=11)
 tweet_by_date = {}
 frequency_by_date = {}
 while not startdate == enddate:
-    # url 의 q 뒤에 부분(멜로망스)를 원하는 검색어 내용으로.
+    # url 의 q 뒤에 부분()를 원하는 검색어 내용으로.
     url = "https://twitter.com/search?f=tweets&vertical=default&q=웨이백홈%20since%3A{}%20until%3A{}&src=typd".format(startdate, untildate)
     # 본인의 크롬드라이버 경로 지정.
     driver = webdriver.Chrome("C:\dev\chromedriver.exe")
