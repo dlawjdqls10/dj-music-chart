@@ -1,0 +1,5 @@
+*.xlsx
+
+*.txt
+
+!sample_excel_file.xlsx
